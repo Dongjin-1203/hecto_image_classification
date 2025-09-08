@@ -1,0 +1,11 @@
+numpy
+pandas
+matplotlib
+seaborn
+wordcloud
+pillow
+tensor
+torch
+torchvision
+scikit-learn
+certifi
